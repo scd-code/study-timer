@@ -9,7 +9,8 @@ UI flow chart:
 
 Example
 ***********************
-Benvenuta alla cucina di Nonna! Lei prepara la cena mentre tu studi. Fai il tuo lavoro!
+Benvenuta alla cucina di Nonna! Lei prepara la cena mentre tu studi.<br>
+Fai il tuo lavoro!<br><br>
 Per il metodo Pomodoro:
 - scegli un compito
 - lavora per 25 minuti
