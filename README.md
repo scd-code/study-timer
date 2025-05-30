@@ -1,5 +1,6 @@
 # study-timer
-based on the pomodoro technique (and @Btelgeuse's source code)
+based on the pomodoro technique (https://www.todoist.com/productivity-methods/pomodoro-technique) <br>
+(and @Btelgeuse's source code)
 
 UI flow chart:
 - popup message explaining pomodoro technique, close
